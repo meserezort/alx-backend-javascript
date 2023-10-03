@@ -10,3 +10,4 @@ export default function getListStudents() {
     { id: 5, firstName: 'Atild', location: 'Morocco' },
   ];
 }
+
